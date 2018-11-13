@@ -5,6 +5,9 @@
 3. Cannibals cannot outnumber missionaries on either side of river.
 4. Canoe cannot be empty.
 
+## Output
 
+![](Output/output.JPG)
 
-
+## Platform
+Python
