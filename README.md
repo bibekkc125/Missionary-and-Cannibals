@@ -10,4 +10,13 @@
 ![](Output/output.JPG)
 
 ## Platform
-Python
+Python \
+Javascript
+
+## Libraries
+p5.js
+
+## Screenshots
+
+![](p5/Screenshots/1.PNG)
+![](p5/Screenshots/2.PNG)
