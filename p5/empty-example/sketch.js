@@ -717,21 +717,8 @@ function check_gameover(){
 		}
 }
 
-
 function draw() {
   // put drawing code here
   scene();
-  //initial_state();
   check_gameover();
-  
-  //rect(30,30,55,55).mousePressed(moveBoat);
-  //image(mis2,300,550,50,80);
-  //image(objects[6],50,20,50,100);
-  //button.mousePressed(moveBoat);
-  //a.mousePressed(moveBoat);
-  // if (boatcount>2)
-
-  //text(mouseX,mouseX,mouseY);
-  
-
 }
